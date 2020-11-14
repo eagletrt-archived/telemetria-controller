@@ -41,4 +41,4 @@ mqttNow.subscribe({
     ],
     messageType: mqttNow.MessageType.STRING
 });
-console.log(`Telemetria controller listening on ${host}`);
+console.log(`Telemetria controller listening on ${IP}`);
